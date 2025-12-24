@@ -76,6 +76,7 @@ OUTPUT:
 
 <img width="933" height="673" alt="527613729-8f93f3a3-a826-4160-9500-b9246190f894" src="https://github.com/user-attachments/assets/43864e61-c673-4d69-a3da-7a14320dedbc" />
 
+
 TASK_3: IMAGE CLASSIFICATION USING CNN
 
 ✅ Project Description
@@ -101,8 +102,11 @@ Key Steps Include:
 This project demonstrates how deep learning models process image data and how CNNs can classify visual patterns effectively.
 
 OUTPUT:
+
 <img width="1178" height="900" alt="528133790-fb0ec4ea-ab73-419c-916d-10da3c6f07fd" src="https://github.com/user-attachments/assets/e0be3644-ddb0-4703-a91a-aaeccf52bd50" />
+
 <img width="1233" height="709" alt="528135933-a313a301-ffc0-42ad-80c4-d4feb5e2c4f1" src="https://github.com/user-attachments/assets/54b95305-d386-4133-bef6-114c882bd750" />
+
 
 TASK_4: MOVIE RECOMMENDATION SYSTEM
 
