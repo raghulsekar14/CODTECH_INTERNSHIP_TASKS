@@ -42,7 +42,8 @@ This project helps understand how decision trees work, how features affect survi
 
 OUTPUT:
 
-Image
+<img width="696" height="416" alt="527607266-8b35bdc2-5b46-4701-b45e-9e57614d91e4" src="https://github.com/user-attachments/assets/d4cb5f9e-f84d-44d0-94eb-449b03095f0d" />
+
 TASK_2: SENTIMENT ANALYSIS USING NLP AND LOGISTIC REGRESSION
 
 ✅ Project Description
